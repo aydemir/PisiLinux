@@ -59,20 +59,6 @@
     </Package>
 
     <History>
-        <Update release="9">
-            <Date>2015-02-05</Date>
-            <Version>3.70</Version>
-            <Comment>Version bump.</Comment>
-            <Name>Stefan Gronewold(groni)</Name>
-            <Email>groni@pisilinux.org</Email>
-        </Update>
-        <Update release="8">
-            <Date>2015-02-05</Date>
-            <Version>3.70</Version>
-            <Comment>Version bump.</Comment>
-            <Name>Stefan Gronewold(groni)</Name>
-            <Email>groni@pisilinux.org</Email>
-        </Update>
         <Update release="7">
             <Date>2015-02-05</Date>
             <Version>3.70</Version>
